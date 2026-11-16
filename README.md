@@ -118,13 +118,6 @@ Based on the findings, the analysis proposed the following opportunities:
 - Business insight development
 - Data-driven recommendations
 
-## Project Deliverables
-
-- [Full Analysis Report](INSERT LINK)
-- [Management Presentation](INSERT LINK)
-- [Cleaned Dataset](INSERT LINK)
-- [Analysis Workbook](INSERT LINK)
-
 ## Limitations
 
 The dataset represents a snapshot of customer information. Historical marketing campaigns, pricing changes, and customer retention interventions were not available.
